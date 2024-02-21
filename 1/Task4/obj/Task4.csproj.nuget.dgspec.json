@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\Home Work\\1\\Task4\\Task4.csproj": {}
+    "D:\\C#\\Home Work\\1\\task4\\task4.csproj": {}
   },
   "projects": {
-    "D:\\C#\\Home Work\\1\\Task4\\Task4.csproj": {
+    "D:\\C#\\Home Work\\1\\task4\\task4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Home Work\\1\\Task4\\Task4.csproj",
-        "projectName": "Task4",
-        "projectPath": "D:\\C#\\Home Work\\1\\Task4\\Task4.csproj",
+        "projectUniqueName": "D:\\C#\\Home Work\\1\\task4\\task4.csproj",
+        "projectName": "task4",
+        "projectPath": "D:\\C#\\Home Work\\1\\task4\\task4.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Home Work\\1\\Task4\\obj\\",
+        "outputPath": "D:\\C#\\Home Work\\1\\task4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Task5")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("task5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Task5")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Task5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab00bcc0218c643ead0eb2de43865e09b0b7735d")]
+[assembly: System.Reflection.AssemblyProductAttribute("task5")]
+[assembly: System.Reflection.AssemblyTitleAttribute("task5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
